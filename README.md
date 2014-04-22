@@ -1,4 +1,4 @@
 ansible-rpmforge
 ================
 
-Installs rpmforge Support for CentOS
+Installs rpmforge / repoforge Support for CentOS
